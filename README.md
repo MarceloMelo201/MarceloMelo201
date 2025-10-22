@@ -15,7 +15,6 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=Spring-Boot&logoColor=6DB33F)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger&logoColor=85EA2D)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=4169E1)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=F80000)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Front-end**
