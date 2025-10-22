@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio e Técnico em **Desenvolvimento de Sistemas** no SENAi.
 - 🌱 Aprofundando conhecimentos em **Java**, **Spring Boot** e **bancos de dados Oracle/PostgreSQL**.
 - 🚀 Buscando oportunidades para aplicar o que aprendo em projetos reais.
 
