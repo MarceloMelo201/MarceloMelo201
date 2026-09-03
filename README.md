@@ -2,7 +2,7 @@
 
 Hello, my name is Marcelo Melo, I'm a Brazilian Backend Developer focused on Java and Spring Boot.
 
-I'm currently studying Systems Analysis and Development and have completed a Technical Degree in Systems Development at SENAI.
+I'm currently studying Systems Analysis and Development at Estácio and have completed a Technical Degree in Systems Development at SENAI.
 
 I'm building backend applications while improving my knowledge of software architecture, application security, distributed systems and cloud computing.
 
@@ -10,32 +10,19 @@ I'm interested in building secure and well-structured systems that solve real pr
 
 #### Skills
 
-**Back-end and Databases**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat\&logo=springboot)
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-333333?style=flat\&logo=springsecurity)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat\&logo=mongodb)
-
-**Messaging and Cache**
-
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat\&logo=rabbitmq)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=flat\&logo=redis)
-
-**Cloud and DevOps**
-
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat\&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat\&logo=github)
-
-**Tools**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat\&logo=postman)
-![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat\&logo=swagger)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat\&logo=intellijidea)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat\&logo=visualstudiocode)
+[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge\&logo=openjdk\&logoColor=white)]()
+[![SPRING BOOT](https://img.shields.io/badge/spring%20boot-000000?style=for-the-badge\&logo=springboot\&logoColor=white)]()
+[![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge\&logo=postgresql\&logoColor=white)]()
+[![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge\&logo=mysql\&logoColor=white)]()
+[![MONGODB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge\&logo=mongodb\&logoColor=white)]()
+[![RABBITMQ](https://img.shields.io/badge/rabbitmq-000000?style=for-the-badge\&logo=rabbitmq\&logoColor=white)]()
+[![REDIS](https://img.shields.io/badge/redis-000000?style=for-the-badge\&logo=redis\&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge\&logo=docker\&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge\&logo=git\&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge\&logo=github\&logoColor=white)]()
+[![POSTMAN](https://img.shields.io/badge/postman-000000?style=for-the-badge\&logo=postman\&logoColor=white)]()
+[![SWAGGER](https://img.shields.io/badge/swagger-000000?style=for-the-badge\&logo=swagger\&logoColor=white)]()
 
 #### Socials
 
