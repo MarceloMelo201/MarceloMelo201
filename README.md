@@ -11,7 +11,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 🔐 Atualmente aprofundando **Spring Security** — autenticação JWT, autorização stateless e proteção contra IDOR.
-- 🚀 Construindo o **FinTrack API**, um projeto de gestão financeira pessoal para demonstrar arquitetura backend segura e bem estruturada.
+- 🚀 Construindo o **Finance API**, um projeto de gestão financeira pessoal para demonstrar arquitetura backend segura e bem estruturada.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Estácio) e Técnico em **Desenvolvimento de Sistemas** (SENAI).
 - 🌱 Aprofundando **Java, Spring Boot e PostgreSQL**, com boas práticas de SOLID e Clean Code.
 - 📌 Buscando minha primeira oportunidade como desenvolvedor backend Java.
