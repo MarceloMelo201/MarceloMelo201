@@ -11,7 +11,9 @@ I'm interested in building secure and well-structured systems that solve real pr
 #### Skills
 
 [![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge\&logo=openjdk\&logoColor=white)]()
+[![GO](https://img.shields.io/badge/go-000000?style=for-the-badge\&logo=go\&logoColor=white)]()
 [![SPRING BOOT](https://img.shields.io/badge/spring%20boot-000000?style=for-the-badge\&logo=springboot\&logoColor=white)]()
+[![GIN](https://img.shields.io/badge/gin-000000?style=for-the-badge\&logo=gin\&logoColor=white)]()
 [![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge\&logo=postgresql\&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge\&logo=mysql\&logoColor=white)]()
 [![MONGODB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge\&logo=mongodb\&logoColor=white)]()
